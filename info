@@ -1,1 +1,2 @@
-
+Developed a class polynomial that puts the coefficients of a polynomial in an array.
+We can perform multiple operations on the polynomials such as add, evaluate, and hasRoot.
